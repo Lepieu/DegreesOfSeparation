@@ -46,9 +46,9 @@ example:
 
 After inputting these files correctly, you can run the degrees.py file, input two actors' names, and the program will return the degree of separation, and each movie that separates them
 
-If using only the example additions given, after inputting Miles Teller and Ryan Gosling, the program will return: 
+If using only the small sample given, after inputting Miles Teller and Ryan Gosling, the program will return: 
   
 	2 degrees of separation:
   	1: Miles Teller and J.K. Simmons starred in Whiplash
   	2: J.K. Simmons and Ryan Gosling starred in La La Land
-  
+
