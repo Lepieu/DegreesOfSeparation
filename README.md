@@ -2,7 +2,7 @@
 This is an AI algorithm written in Python that uses BFS to find the degree of separation between two actors. This is a project for the Harvard CS50 AI Python course.
 For example, if actor A stars with actor B in a movie, and B stars with C in another movie, A and C are 2 degrees of separation apart.
 
-The following files will need to be edited:
+The following files can be edited, although there are already some examples already within the files to demonstrate:
 
 # /large/movies.csv
 
@@ -46,7 +46,7 @@ example:
 
 After inputting these files correctly, you can run the degrees.py file, input two actors' names, and the program will return the degree of separation, and each movie that separates them
 
-If using only the example additions given, after inputting everything correctly, and inputting Miles Teller and Ryan Gosling, the program will return: 
+If using only the example additions given, after inputting Miles Teller and Ryan Gosling, the program will return: 
   
 	2 degrees of separation:
   	1: Miles Teller and J.K. Simmons starred in Whiplash
