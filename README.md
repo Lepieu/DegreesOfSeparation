@@ -2,9 +2,10 @@
 This is an AI algorithm written in Python that uses BFS to find the degree of separation between two actors. This is a project for the Harvard CS50 AI Python course.
 For example, if actor A stars with actor B in a movie, and B stars with C in another movie, A and C are 2 degrees of separation apart.
 
-The following files can be edited, although there are already some examples already within the files to demonstrate:
+## The following files should be edited:
+The program can run without modification to these files, but they only contain a small list of actors and movies (same as the example below) for demonstration
 
-# /large/movies.csv
+## /large/movies.csv
 
 DO NOT edit or remove the first line
 
@@ -15,7 +16,7 @@ example:
   	3783958,"La La Land",2016
     2582802,"Whiplash",2014
     
-# /large/people.csv
+## /large/people.csv
 
 DO NOT edit or remove the first line
  
@@ -27,7 +28,7 @@ example:
   	0331516,"Ryan Gosling",1980
   	1886602,"Miles Teller",1987
 
-# /large/stars.csv     
+## /large/stars.csv     
    
 DO NOT edit or remove the first line
 
